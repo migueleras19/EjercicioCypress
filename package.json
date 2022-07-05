@@ -1,0 +1,18 @@
+{
+  "name": "ejerciciocypress",
+  "version": "1.0.0",
+  "description": "Prueba E2E para Nttdata",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "Miguel Eras",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/migueleras19/Nttda.git"
+  }
+}

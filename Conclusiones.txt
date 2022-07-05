@@ -1,0 +1,6 @@
+## Conclusiones 
+
+Al crear los escenarios solicitados para las pruebas, se evidencia que la aplicación responde de una manera correcta // hay elementos en el DOM que no se puede detectar en algunos escenarios, pero la prueba se la realiza con otros elementos encontrados en cada uno de ellos.
+
+Hay que tener cuidado en las cookies que se deben de setear en cada prueba con el objetivo de no perder las compras al realizar la prueba como se lo indica en el archivo Readme dentro del proyecto.
+

@@ -1,0 +1,8 @@
+{
+    "name":"#name",
+    "pais":"#country",
+    "cuidad":"#city",
+    "card":"#card",
+    "mes":"#month",
+    "year":"#year"
+}
