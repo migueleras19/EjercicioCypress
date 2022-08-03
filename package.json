@@ -9,10 +9,14 @@
   "author": "Miguel Eras",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^10.3.0"
+    "D": "^1.0.0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/migueleras19/Nttda.git"
+  },
+  "devDependencies": {
+    "cypress": "^10.3.1",
+    "cypress-xpath": "^2.0.1"
   }
 }
